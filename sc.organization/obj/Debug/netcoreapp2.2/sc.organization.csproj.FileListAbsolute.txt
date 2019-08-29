@@ -1,0 +1,12 @@
+D:\Smaran\Practice\TestNavigator\sc.organization\bin\Debug\netcoreapp2.2\sc.organization.deps.json
+D:\Smaran\Practice\TestNavigator\sc.organization\bin\Debug\netcoreapp2.2\sc.organization.dll
+D:\Smaran\Practice\TestNavigator\sc.organization\bin\Debug\netcoreapp2.2\sc.organization.pdb
+D:\Smaran\Practice\TestNavigator\sc.organization\bin\Debug\netcoreapp2.2\sc.data.dll
+D:\Smaran\Practice\TestNavigator\sc.organization\bin\Debug\netcoreapp2.2\sc.data.pdb
+D:\Smaran\Practice\TestNavigator\sc.organization\obj\Debug\netcoreapp2.2\sc.organization.csprojAssemblyReference.cache
+D:\Smaran\Practice\TestNavigator\sc.organization\obj\Debug\netcoreapp2.2\sc.organization.csproj.CoreCompileInputs.cache
+D:\Smaran\Practice\TestNavigator\sc.organization\obj\Debug\netcoreapp2.2\sc.organization.AssemblyInfoInputs.cache
+D:\Smaran\Practice\TestNavigator\sc.organization\obj\Debug\netcoreapp2.2\sc.organization.AssemblyInfo.cs
+D:\Smaran\Practice\TestNavigator\sc.organization\obj\Debug\netcoreapp2.2\sc.organization.csproj.CopyComplete
+D:\Smaran\Practice\TestNavigator\sc.organization\obj\Debug\netcoreapp2.2\sc.organization.dll
+D:\Smaran\Practice\TestNavigator\sc.organization\obj\Debug\netcoreapp2.2\sc.organization.pdb

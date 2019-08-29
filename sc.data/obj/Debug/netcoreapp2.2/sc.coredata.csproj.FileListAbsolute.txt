@@ -1,0 +1,6 @@
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.coredata\bin\Debug\netcoreapp2.2\sc.coredata.deps.json
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.coredata\bin\Debug\netcoreapp2.2\sc.coredata.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.coredata\obj\Debug\netcoreapp2.2\sc.coredata.csproj.CoreCompileInputs.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.coredata\obj\Debug\netcoreapp2.2\sc.coredata.AssemblyInfoInputs.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.coredata\obj\Debug\netcoreapp2.2\sc.coredata.AssemblyInfo.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.coredata\obj\Debug\netcoreapp2.2\sc.coredata.csprojAssemblyReference.cache

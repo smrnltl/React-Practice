@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>aspnet-sc.react.core-FFCF0967-FFE4-43E3-A8A8-9ED1E0BE6BC0</UserSecretsId>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <TypeScriptToolsVersion>3.1</TypeScriptToolsVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\Identity\**" />
+    <Content Remove="Areas\Identity\**" />
+    <EmbeddedResource Remove="Areas\Identity\**" />
+    <None Remove="Areas\Identity\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\app\admin\css\animate.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\app\admin\components\test.js" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\sc.module\sc.module.csproj" />
+    <ProjectReference Include="..\sc.organization\sc.organization.csproj" />
+    <ProjectReference Include="..\sc.user\sc.user.csproj" />
+  </ItemGroup>
+
+</Project>

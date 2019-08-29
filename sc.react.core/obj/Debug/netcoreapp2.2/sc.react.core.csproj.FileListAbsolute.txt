@@ -1,0 +1,131 @@
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.deps.json
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.runtimeconfig.json
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.runtimeconfig.dev.json
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.Views.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.Views.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csprojAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csproj.CoreCompileInputs.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorAssemblyInfo.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorAssemblyInfo.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.AssemblyInfoInputs.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.AssemblyInfo.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.TagHelpers.input.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.TagHelpers.output.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorCoreGenerate.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorTargetAssemblyInfo.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorTargetAssemblyInfo.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.Views.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csproj.CopyComplete
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.data.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.user.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.user.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.data.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.module.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.module.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.deps.json
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.runtimeconfig.json
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.runtimeconfig.dev.json
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.Views.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.Views.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.data.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.module.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.user.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.module.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.user.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\bin\Debug\netcoreapp2.2\sc.data.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csprojAssemblyReference.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csproj.CoreCompileInputs.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorAssemblyInfo.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorAssemblyInfo.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.AssemblyInfoInputs.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.AssemblyInfo.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.TagHelpers.input.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.TagHelpers.output.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorCoreGenerate.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorTargetAssemblyInfo.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorTargetAssemblyInfo.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.Views.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csproj.CopyComplete
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.deps.json
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.runtimeconfig.json
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.runtimeconfig.dev.json
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.dll
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.Views.dll
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.react.core.Views.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.data.dll
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.module.dll
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.user.dll
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.module.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.user.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.data.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csprojAssemblyReference.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csproj.CoreCompileInputs.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorAssemblyInfo.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorAssemblyInfo.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.AssemblyInfoInputs.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.AssemblyInfo.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.TagHelpers.input.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.TagHelpers.output.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorCoreGenerate.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorTargetAssemblyInfo.cache
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.RazorTargetAssemblyInfo.cs
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.Views.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.csproj.CopyComplete
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.dll
+D:\Smaran\Practice\TestNavigator\sc.react.core\obj\Debug\netcoreapp2.2\sc.react.core.pdb
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.organization.dll
+D:\Smaran\Practice\TestNavigator\sc.react.core\bin\Debug\netcoreapp2.2\sc.organization.pdb

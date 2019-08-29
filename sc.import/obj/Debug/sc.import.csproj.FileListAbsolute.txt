@@ -1,0 +1,83 @@
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Debug\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Debug\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\obj\Debug\sc.import.csprojResolveAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\obj\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Panchakanya\project\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Panchakanya\project\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Panchakanya\project\sc.import\bin\Debug\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\Panchakanya\project\sc.import\bin\Debug\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\Panchakanya\project\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Panchakanya\project\sc.import\obj\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Panchakanya\project\sc.import\obj\Debug\sc.import.csprojResolveAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\MvcProject\JqMvc\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\MvcProject\JqMvc\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\MvcProject\JqMvc\sc.import\obj\Debug\sc.import.csprojResolveAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\MvcProject\JqMvc\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\MvcProject\JqMvc\sc.import\obj\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\MvcProject\Project\Ajod_Insurance\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\MvcProject\Project\Ajod_Insurance\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\MvcProject\Project\Ajod_Insurance\sc.import\bin\Debug\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\MvcProject\Project\Ajod_Insurance\sc.import\bin\Debug\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\MvcProject\Project\Ajod_Insurance\sc.import\obj\Debug\sc.import.csprojResolveAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\MvcProject\Project\Ajod_Insurance\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\MvcProject\Project\Ajod_Insurance\sc.import\obj\Debug\sc.import.pdb
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Debug\sc.import.dll
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Debug\sc.import.pdb
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Debug\EPPlus.dll
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Debug\EPPlus.xml
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\obj\Debug\sc.import.dll
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\obj\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Attic Group\attic\Project\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Attic Group\attic\Project\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Attic Group\attic\Project\sc.import\bin\Debug\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\Attic Group\attic\Project\sc.import\bin\Debug\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\Attic Group\attic\Project\sc.import\obj\Debug\sc.import.csprojResolveAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Attic Group\attic\Project\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Attic Group\attic\Project\sc.import\obj\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\bin\Debug\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\bin\Debug\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\obj\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\obj\Debug\sc.import.csprojAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\obj\Debug\sc.import.csproj.CoreCompileInputs.cache
+E:\Projects\GIT Projects\Source Code\Market Data Provider\Project\sc.import\obj\Debug\sc.import.csproj.CopyComplete
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\bin\Debug\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\bin\Debug\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\obj\Debug\sc.import.csprojAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\obj\Debug\sc.import.csproj.CoreCompileInputs.cache
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\obj\Debug\sc.import.csproj.CopyComplete
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Market Data Provider\MarketDataProvider\Project\sc.import\obj\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\bin\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\bin\Debug\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\bin\Debug\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\bin\Debug\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\obj\Debug\sc.import.csprojAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\obj\Debug\sc.import.csproj.CoreCompileInputs.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\obj\Debug\sc.import.csproj.CopyComplete
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\obj\Debug\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.import\obj\Debug\sc.import.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\bin\Debug\sc.import.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\bin\Debug\sc.import.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\bin\Debug\EPPlus.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\bin\Debug\EPPlus.xml
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\obj\Debug\sc.import.csproj.CoreCompileInputs.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\obj\Debug\sc.import.csproj.CopyComplete
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\obj\Debug\sc.import.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.import\obj\Debug\sc.import.pdb
+D:\Smaran\Practice\TestNavigator\sc.import\bin\Debug\sc.import.dll
+D:\Smaran\Practice\TestNavigator\sc.import\bin\Debug\sc.import.pdb
+D:\Smaran\Practice\TestNavigator\sc.import\bin\Debug\EPPlus.dll
+D:\Smaran\Practice\TestNavigator\sc.import\bin\Debug\EPPlus.xml
+D:\Smaran\Practice\TestNavigator\sc.import\obj\Debug\sc.import.csprojAssemblyReference.cache
+D:\Smaran\Practice\TestNavigator\sc.import\obj\Debug\sc.import.csproj.CoreCompileInputs.cache
+D:\Smaran\Practice\TestNavigator\sc.import\obj\Debug\sc.import.csproj.CopyComplete
+D:\Smaran\Practice\TestNavigator\sc.import\obj\Debug\sc.import.dll
+D:\Smaran\Practice\TestNavigator\sc.import\obj\Debug\sc.import.pdb

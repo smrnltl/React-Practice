@@ -1,0 +1,90 @@
+@-webkit-keyframes example {
+  from {
+    height: 100%; }
+  to {
+    height: 0; } }
+.pull-right {
+  float: right; }
+
+.main-placeholder {
+  padding: 0 15px; }
+
+.main-footer {
+  position: fixed;
+  bottom: 0; }
+
+#adminlogin {
+  background: url(/app/admin/images/scan.gif) -6px 0px no-repeat #000;
+  background-size: contain;
+  border: solid #000; }
+  #adminlogin .content-mid-4 {
+    background-color: #e5e5e5;
+    margin-top: 4%;
+    padding: 20px; }
+  #adminlogin .row {
+    margin: 0; }
+  #adminlogin .footer {
+    margin-top: 33px;
+    font-size: 13px;
+    font-style: oblique;
+    position: fixed;
+    bottom: 0;
+    left: 40%; }
+
+hr {
+  border: 0;
+  height: 1px;
+  /*width: 70%;*/
+  background-image: linear-gradient(to right, #34a853, rgba(52, 168, 83, 0.5), rgba(52, 168, 83, 0));
+  margin: 10px auto; }
+
+.App .sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active {
+  background-color: #34A853; }
+.App .cLuxNg {
+  top: 85%; }
+.App .btn {
+  margin-right: 10px;
+  padding: 5px 15px; }
+.App .btn-primary {
+  background-color: #34A853;
+  border-color: #2b9648; }
+  .App .btn-primary :focus {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 0 0.2rem rgba(52, 168, 83, 0.5) !important; }
+.App .main-content {
+  padding: 0 20px 100px 20px; }
+  .App .main-content .content-header {
+    background-color: #e5e5e5; }
+  .App .main-content .divData {
+    margin-top: 15px; }
+  .App .main-content .divForm {
+    margin-top: 15px;
+    box-shadow: 0px 0px 7px -3px; }
+    .App .main-content .divForm h4 {
+      padding: 10px;
+      background-color: #34a853;
+      color: #fff;
+      margin-bottom: 0; }
+  .App .main-content .search-filter {
+    background-color: #e5e5e5;
+    padding: 0 20px 20px; }
+    .App .main-content .search-filter h4 {
+      color: #34a853;
+      font-size: 18px; }
+    .App .main-content .search-filter .btn-search-group {
+      margin-top: 32px; }
+  .App .main-content .hidden {
+    display: none; }
+  .App .main-content .btnToggle {
+    position: absolute;
+    top: 10%;
+    right: 40%;
+    padding: 0 11px; }
+  .App .main-content .divData {
+    margin-top: 20px; }
+    .App .main-content .divData h2 {
+      color: #34A853;
+      font-size: 20px; }
+.App .main-footer {
+  border-top: 1px solid #34A853; }
+
+/*# sourceMappingURL=admin.css.map */

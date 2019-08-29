@@ -1,0 +1,165 @@
+﻿$base-color: #34A853;
+
+.pull-right {
+    float: right;
+}
+
+.main-placeholder {
+    padding: 0 15px;
+}
+
+.main-footer {
+    position: fixed;
+    bottom: 0;
+}
+
+
+#adminlogin {
+    background: url(/app/admin/images/scan.gif) -6px 0px no-repeat #000;
+    background-size: contain;
+    border: solid #000;
+
+    .content-mid-4 {
+        background-color: #e5e5e5;
+        margin-top: 4%;
+        padding: 20px;
+    }
+
+    .row {
+        margin: 0;
+    }
+
+
+    .footer {
+        margin-top: 33px;
+        font-size: 13px;
+        font-style: oblique;
+        position: fixed;
+        bottom: 0;
+        left: 40%;
+    }
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    /*width: 70%;*/
+    background-image: linear-gradient(to right, rgba(52, 168, 83, 1), rgba(52, 168, 83, 0.5), rgba(52, 168, 83, 0));
+    margin: 10px auto;
+}
+
+.App {
+    .sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active {
+        background-color: $base-color;
+    }
+
+    .cLuxNg {
+        top: 85%;
+    }
+
+    .btn {
+        margin-right: 10px;
+        padding: 5px 15px;
+    }
+
+    .btn-primary {
+        background-color: $base-color;
+        border-color: #2b9648;
+
+        :focus {
+            box-shadow: 0 1px 1px rgba(0,0,0,.075), 0 0 0 0.2rem rgba(52, 168, 83, 0.5) !important;
+        }
+    }
+
+    .main-content {
+        padding: 0 20px 100px 20px;
+
+        .content-header {
+            background-color: #e5e5e5;
+        }
+
+        .divData {
+            margin-top: 15px;
+        }
+
+        .divForm {
+            margin-top: 15px;
+            box-shadow: 0px 0px 7px -3px;
+
+            h4 {
+                padding: 10px;
+                background-color: #34a853;
+                color: #fff;
+                margin-bottom: 0;
+            }
+
+            strong{
+                padding:.75em;
+            }
+        }
+
+        .search-filter {
+            background-color: #e5e5e5;
+            padding: 0 20px 20px;
+
+            h4 {
+                color: rgba(52, 168, 83, 1);
+                font-size: 18px;
+            }
+
+            .btn-search-group {
+                margin-top: 32px;
+            }
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .btnToggle {
+            position: absolute;
+            top: 9%;
+            right: 38%;
+            padding: 0 11px;
+        }
+
+        .divData {
+            margin-top: 20px;
+
+            h2 {
+                color: $base-color;
+                font-size: 20px;
+            }
+        }
+
+        .error-message {
+            color: red;
+            font-size: 15px;
+        }
+    }
+
+    .main-footer {
+        border-top: 1px solid $base-color;
+    }
+}
+.flashmsg {
+    position: fixed;
+    right: 20px;
+    z-index: 100;
+    width: auto;
+    min-width: 300px;
+    text-align: center;
+    bottom: 20px;
+}
+
+.modal-backdrop.fade{
+    opacity:0.9!important;
+}
+
+.fade:not(.show) {
+    opacity: 1;
+}
+
+.modal-dialog{
+    top: 20%;
+}

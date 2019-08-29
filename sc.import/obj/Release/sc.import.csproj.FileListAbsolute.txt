@@ -1,0 +1,14 @@
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Release\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Release\sc.import.pdb
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Release\EPPlus.dll
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\bin\Release\EPPlus.xml
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\obj\Release\sc.import.csprojResolveAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\obj\Release\sc.import.dll
+E:\Projects\GIT Projects\Source Code\Satin Coffee\SatinCoffee_Official\sc.import\obj\Release\sc.import.pdb
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Release\sc.import.dll
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Release\sc.import.pdb
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Release\EPPlus.dll
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\bin\Release\EPPlus.xml
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\obj\Release\sc.import.csprojResolveAssemblyReference.cache
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\obj\Release\sc.import.dll
+D:\Smaran\Workspace\Ajod_Insurance\sc.import\obj\Release\sc.import.pdb

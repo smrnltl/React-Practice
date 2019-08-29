@@ -1,0 +1,36 @@
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.module.deps.json
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.module.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.module.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.csprojAssemblyReference.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.csproj.CoreCompileInputs.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.AssemblyInfoInputs.cache
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.AssemblyInfo.cs
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.data.dll
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.data.pdb
+E:\Projects\GIT Projects\Source Code\Green Freen\newproject\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.csproj.CopyComplete
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.module.deps.json
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.module.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.module.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.data.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\bin\Debug\netcoreapp2.2\sc.data.pdb
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.csprojAssemblyReference.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.csproj.CoreCompileInputs.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.AssemblyInfoInputs.cache
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.AssemblyInfo.cs
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.csproj.CopyComplete
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.dll
+E:\Ram\Source Code Project\screactcore\sc.react.core\sc.module\obj\Debug\netcoreapp2.2\sc.module.pdb
+D:\Smaran\Practice\TestNavigator\sc.module\bin\Debug\netcoreapp2.2\sc.module.deps.json
+D:\Smaran\Practice\TestNavigator\sc.module\bin\Debug\netcoreapp2.2\sc.module.dll
+D:\Smaran\Practice\TestNavigator\sc.module\bin\Debug\netcoreapp2.2\sc.module.pdb
+D:\Smaran\Practice\TestNavigator\sc.module\bin\Debug\netcoreapp2.2\sc.data.dll
+D:\Smaran\Practice\TestNavigator\sc.module\bin\Debug\netcoreapp2.2\sc.data.pdb
+D:\Smaran\Practice\TestNavigator\sc.module\obj\Debug\netcoreapp2.2\sc.module.csprojAssemblyReference.cache
+D:\Smaran\Practice\TestNavigator\sc.module\obj\Debug\netcoreapp2.2\sc.module.csproj.CoreCompileInputs.cache
+D:\Smaran\Practice\TestNavigator\sc.module\obj\Debug\netcoreapp2.2\sc.module.AssemblyInfoInputs.cache
+D:\Smaran\Practice\TestNavigator\sc.module\obj\Debug\netcoreapp2.2\sc.module.AssemblyInfo.cs
+D:\Smaran\Practice\TestNavigator\sc.module\obj\Debug\netcoreapp2.2\sc.module.csproj.CopyComplete
+D:\Smaran\Practice\TestNavigator\sc.module\obj\Debug\netcoreapp2.2\sc.module.dll
+D:\Smaran\Practice\TestNavigator\sc.module\obj\Debug\netcoreapp2.2\sc.module.pdb
